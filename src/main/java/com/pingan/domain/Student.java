@@ -6,4 +6,5 @@ public class Student {
     private Long money;
     private Integer age;
     private  String address;
+    private String qianduan ;
 }
